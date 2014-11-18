@@ -1,0 +1,21 @@
+{
+    "name": "reklamper/yii-reklampercaptcha",
+    "description": "Yii captcha package",
+    "keywords": ["yii", "captcha"],
+    "homepage": "http://reklamper.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kozitsin Konstantin",
+            "email": "support@reklamper.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/betadog/yii-reklampercaptcha/issues",
+        "source": "https://github.com/betadog/yii-reklampercaptcha"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
